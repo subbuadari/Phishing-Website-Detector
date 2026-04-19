@@ -4,6 +4,9 @@
 
 **PhishGuard AI** is a full-stack, production-ready phishing website detection system powered by an ensemble of machine learning models. It combines a high-accuracy AI backend with a real-time, professional-grade **Quantum Security Dashboard** built on Flask and modern CSS/SVG animations.
 
+> [!TIP]
+> **Fully Working Model**: This project is ready for immediate use. You can **clone** this repository and follow the setup instructions below to run the detector locally.
+
 > Built for academic research and real-world security analysis. Detects phishing URLs with high confidence using structural and lexical feature extraction.
 
 ---
